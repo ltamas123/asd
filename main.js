@@ -13,3 +13,5 @@ const message = (char) => {
 
   counter++;
 };
+
+//delete everything
